@@ -2,11 +2,13 @@
 
 There are three groups in the main dataset: A=Sepsis B=Control C=SIRS. 
 
-The main dataset contains the difference in gene expression between each group was measured. A binary significance value was assigned (1 significant, 0 not significant). 
+The main dataset contains the difference in gene expression between each group was measured. Gene expressions show how an organism responds to different conditions.
 
-In a previous study, a set of genes was selected from siglist. These genes are differentially expressed in Sepsis vs SIRS and similarly expressed in Control vs SIRS. To test if they also have a significant difference in Sepsis vs SIRS and do not have a significant difference in Control vs SIRS, a new group of genes was selected. 
+A binary significance value was assigned (1 significant, 0 not significant). 
 
-To reveal the specific genes that are upregulated or downregulated due to infection, we selected from siglist a group of genes with the following conditions: a fold change in gene expression between Sepsis vs Control, Sepsis vs SIRS greater than 1 and a significant difference between Control vs SIRS. 
+Here I looked for genes with significant difference in Sepsis vs SIRS that do not have a significant difference in Control vs SIRS.
+
+To reveal the specific genes that are upregulated or downregulated due to infection, I selected from siglist a group of genes with the following conditions: a fold change in gene expression between Sepsis vs Control, Sepsis vs SIRS greater than 1 and a significant difference between Control vs SIRS. 
 
 These genes are the ones that are downregulated or upregulated due to infection
 
