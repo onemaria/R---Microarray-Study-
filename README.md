@@ -23,3 +23,6 @@ Actions:
 * Fold change AB/AC>2 extraction and HEATMAP
 * Fold change AB/AC>1 extraction and HEATMAP
 * Fold change BC>2 extraction and HEATMAP 
+
+
+The dataset is not uploaded as I do not have the rights to publicly distribute the dataset.
