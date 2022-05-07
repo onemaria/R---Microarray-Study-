@@ -1,4 +1,7 @@
 # R---Microarray-Study-
+A project that analyzes the gene expression dataset.
+
+
 
 There are three groups in the main dataset: A=Sepsis B=Control C=SIRS. 
 
